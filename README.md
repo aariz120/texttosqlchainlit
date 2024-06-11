@@ -14,9 +14,10 @@ conda create -n textsqlchain python=3.10 -y
 
 ```bash
 conda activate textsqlchain
+```
 
 3. Requirements added
 
 ```bash 
 pip install -r requirements.txt
-
+```
