@@ -21,3 +21,10 @@ conda activate textsqlchain
 ```bash 
 pip install -r requirements.txt
 ```
+
+
+## chainlit commands:
+
+```bash
+chainlit run app.py
+```
